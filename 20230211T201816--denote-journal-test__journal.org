@@ -1,0 +1,6 @@
+#+title:      Denote journal test
+#+date:       [2023-02-11 Sat 20:18]
+#+filetags:   :journal:
+#+identifier: 20230211T201816
+
+This is a test entry for a Denote journal.

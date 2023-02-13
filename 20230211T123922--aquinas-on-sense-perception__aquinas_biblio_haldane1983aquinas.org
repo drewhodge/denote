@@ -1,0 +1,16 @@
+#+title:      Aquinas on sense-perception
+#+date:       [2023-02-11 Sat 12:39]
+#+filetags:   :aquinas:biblio:haldane1983aquinas:
+#+identifier: 20230211T123922
+
+#+begin_src bibtex
+@article{haldane1983aquinas,
+  title={Aquinas on sense-perception},
+  author={Haldane, John J},
+  journal={The Philosophical Review},
+  volume={92},
+  number={2},
+  pages={233--239},
+  year={1983}
+}
+#+end_src

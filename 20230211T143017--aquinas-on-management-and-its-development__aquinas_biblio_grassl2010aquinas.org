@@ -1,0 +1,17 @@
+#+title:      Aquinas on management and its development
+#+date:       [2023-02-11 Sat 14:30]
+#+filetags:   :aquinas:biblio:grassl2010aquinas:
+#+identifier: 20230211T143017
+
+#+begin_src bibtex
+@article{grassl2010aquinas,
+  title={Aquinas on management and its development},
+  author={Grassl, Wolfgang},
+  journal={Journal of Management Development},
+  volume={29},
+  number={7/8},
+  pages={706--715},
+  year={2010},
+  publisher={Emerald Group Publishing Limited}
+}
+#+end_src

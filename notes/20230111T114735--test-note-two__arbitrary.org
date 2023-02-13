@@ -1,0 +1,6 @@
+#+title:      Test note two
+#+date:       [2023-01-11 Wed 11:47]
+#+filetags:   :arbitrary:
+#+identifier: 20230111T114735
+
+Test note two content.
