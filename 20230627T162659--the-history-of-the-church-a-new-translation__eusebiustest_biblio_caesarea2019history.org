@@ -1,0 +1,17 @@
+#+title:      The History of the Church: A New Translation
+#+date:       [2023-06-27 Tue 16:26]
+#+filetags:   :eusebiustest:biblio:caesarea2019history:
+#+identifier: 20230627T162659
+
+#+begin_src bibtex
+@book{caesarea2019history,
+  title={The History of the Church: A New Translation},
+  author={Caesarea, E. and Schott, J.M.},
+  isbn={9780520291102},
+  lccn={2018043076},
+  url={https://books.google.ca/books?id=WfCFDwAAQBAJ},
+  year={2019},
+  publisher={University of California Press}
+}
+
+#+end_src

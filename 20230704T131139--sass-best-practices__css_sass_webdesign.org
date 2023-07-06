@@ -1,0 +1,301 @@
+#+title:      SASS best practices
+#+date:       [2023-07-04 Tue 13:11]
+#+filetags:   :css:sass:webdesign:
+#+identifier: 20230704T131139
+
+* SASS best practices
+
+From: [[https://www.educative.io/blog/sass-best-practices-frontend-coding-tips][SASS Best Practices: 9 frontend tips for CSS preprocessors]]
+
+** SASS architecture
+
+One of the things that makes preprocessing so useful is the ability to siphon
+your styling into separate files without having to compromise on
+performance. Here is an example of what the file structure might look like:
+
+sass/
+|
+|-- utilities/
+|       - _variables.scss
+|       - _mixins.scss
+|       - _extends.scss
+|
+|- reset/
+|       - _reset.scss
+|       - _typography.scss
+|
+|- components/
+|       - _example0.scss
+|       - _example1.scss
+|       - _example2.scss
+|
+|- layout/
+|       - _example0_layout.scss
+|       - _example1_layout.scss
+|       - _example2_layout.scss
+|
+|- pages/
+|       - _home.scss
+|       - _settings.scss
+|       - _another_page.scss
+|
+|- third-party-css/
+|       – _bootstrap.scss
+|
+- main.scss
+
+Utilities concerns itself with the variables and styles that are used across the
+entire application. The reset folder is where you would be your version of a CSS
+Reset and define anything that concerns the font of your webpage.
+
+The components folder will have structural specific rules for buttons, carousels
+and other such elements. Each component should have its own file. The layout
+folder looks at the overall position on the page. This will be where you put
+definitions for your grid, your navbar, your footer, etc. The pages folder looks
+at each individual page’s style.
+
+Typically, some sort of main .scss file is created in the root of the sass
+folder that all the other files are imported into. These files are listed in the
+order you would like the styling applied. The cascading nature of CSS still
+applies.
+
+** Variables in SASS
+
+Using variables in CSS is not necessarily anything new. We were already able to
+write custom properties for awhile to use them later in our stylesheets, but
+browser support for it wasn’t necessarily widespread. Using SASS takes out the
+guesswork and will compile all variables down to something that can be read by a
+browser engine.
+
+This is typically how we are used to seeing a CSS variable:
+
+#+BEGIN_SRC css
+:root {
+  --main-color: #000000;
+  --main-bg: #FAFAFA;
+}
+body {
+  background: var(--main-bg);
+  color: var(--main-color);
+}
+#+END_SRC
+
+This is how it would look using SASS:
+
+#+BEGIN_SRC css
+$main-color: #000000;
+$main-bg: #FAFAFA;
+body {
+  background: $main-bg;
+  color: $main-color;
+}
+#+END_SRC
+
+SASS uses ~$~ to indicate a variable instead of ~--~. Instead of the ~var()~ syntax of
+CSS, SASS uses the same syntax as it did to assign the variable value. This
+works very well when we have a design system and want to keep colors, heading
+sizes and font-families consistent.
+
+If there is ever a need to change the design system, you’ll only need to change
+it in your variables file instead of hunting to try to find every place you
+declared a color. This is why it is important to be sure to name your variables
+for their ~_function_~ as opposed to a ~_description_~.
+
+If you name your variable ~_$purple_~, for instance, it would only make sense that
+the color associated with that variable name would be purple. This takes away
+the purpose of what using variables in CSS or SASS means.
+
+Instead of purple, let’s use ~_$main-bg_~ and assign the value of ~_$main-bg_~ to
+purple. This allows us to use a generic term for our variable in our stylesheets
+while leaving the variable declaration in one place so we can save time on
+changing it later if needed.
+
+** Using Interpolation
+
+An interpolation, coming from the Latin meaning “to polish between”, is simply
+an insertion to a string. One of its use cases is to make selector rules more
+dynamic. Say for instance you would like all of your icons to have a class name
+that is associated with the icon’s name.
+
+We can do that easily in SASS with interpolation and mixins:
+
+#+BEGIN_SRC css
+@mixin icon-name($name) {
+  .icon-#{$name} {
+      background-image: url("../images/#{$name}.png);
+  }
+}
+#+END_SRC
+
+This is only one instance of a use case of string interpolation in SASS. There
+are several more: comments, function names, imports, etc. This only touches the
+very tip of what you can do.
+
+** Extends in SASS
+
+The extend feature in SASS can be useful to keep your stylesheets DRY by
+allowing selectors to inherit properties.
+
+The syntax is as follows:
+
+#+BEGIN_SRC css
+%button-shared { // name of extend
+  // CSS properties go here
+}
+//later in scss:
+button {
+  @extend %button-shared
+}
+#+END_SRC
+
+You can add CSS properties that would be unique to a component. The extend will
+inherit the original properties and then you can add to it as you wish.
+
+#+BEGIN_SRC css
+button.warning {
+  border-color: red;
+  color: red;
+}
+#+END_SRC
+
+** Mixins in SASS
+
+Mixins are very similar to the extend feature, but allow for parameters to be
+passed as well. The syntax is a bit different.
+
+#+BEGIN_SRC css
+@mixin flexContainer($direction, $justify, $align) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+}
+.main-container {
+  @include flexContainer(column, center, center);
+}
+#+END_SRC
+
+Using mixins in SASS is an attempt to make our styling dynamic so we don’t have
+to repeat ourselves multiple times.
+
+** Imports and other at-rules
+
+The ~@import~ rule extends the CSS import feature and gives us the ability to
+bring in other SASS and CSS stylesheets to combine all of the styling into one
+file. SASS imports are handled during compilation unlike CSS imports - which are
+handled with an HTTP request.
+
+According to the SASS documentation, however, the standard way of including an
+import in your main ~scss~ file will be going away within the next couple of
+years. This section will show both the way that is being phased out and the new
+way that SASS recommends to import files so you can compare the two.
+
+#+BEGIN_SRC css
+// using @import
+@import 'folder/name-of-file';
+// using @use
+@use 'folder/name-of-file';
+#+END_SRC
+
+As you can see, it’s essentially the same statement/ The at-rule is the only
+thing that changed. Most of the differences occur under the hood to improve how
+importing works. Most of the changes reflect an improvement on efficiency and
+performance.
+
+** Nesting in SASS
+
+Nesting is one of the most recognizable features of SASS. Unlike CSS, where
+every selector has its own block of CSS properties, SASS allows for nesting in
+the manner of an HTML document. It’s one of the biggest features of SASS that
+will really improve how DRY your code is.
+
+Compare how this code would look in CSS versus SASS:
+
+#+BEGIN_SRC css
+// CSS
+html {
+  font-size: 62.5%;
+}
+body {
+  background: #FAFAFA;
+  color: #333;
+  max-width: 1400px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+button {
+  height: 50px;
+  width: 100px;
+  background: green;
+  color: whitesmoke;
+}
+button:hover {
+  background: lightgreen;
+  color: yellow;
+}
+#+END_SRC
+
+#+BEGIN_SRC css
+//SASS
+html {
+  font-size: 62.5%;
+  body {
+      background: #FAFAFA;
+      color: #333;
+      max-width: 1400px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      .container {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-around;
+          align-items: flex-start;
+          button {
+              height: 50px;
+              width: 100px;
+              background: green;
+              color: whitesmoke;
+              &:hover {
+                  background: lightgreen;
+              }
+          }
+      }
+  }
+}
+#+END_SRC
+
+We can see that the nesting aligns with the structure of an HTML document,
+making it easier to follow the selector rules when bugs pop up. Instead of
+rewriting the HTML element or class name with the hover effect, we use the ~&~ to
+indicate that the tag name is extended to the next selector.
+
+** Using SASS Modules
+
+Just like other programming languages, SASS has some modules you can use that
+have helper functions or properties in it. Some of the common SASS modules are:
+
+  - ~sass:color~ - a function that can lighten or darken a color
+  - ~sass:list~ - a function that can perform list/array methods
+  - ~sass:math~ - a bounding function and constants found in math (i.e. ~_pi_~ and ~_e_~)
+  - ~sass:string~ - a string method not too different from the standard string methods
+
+To use these modules, import them just like you would any other file or module.
+
+#+BEGIN_SRC css
+@use "sass:color";
+button {
+  color: color.lighten(#000000, 20%);
+}
+#+END_SRC
+
+*** Related notes
+
+[[denote:20230704T155826][Advanced SASS concepts]]

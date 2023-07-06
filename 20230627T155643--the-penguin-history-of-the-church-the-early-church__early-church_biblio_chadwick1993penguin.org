@@ -1,0 +1,17 @@
+#+title:      The Penguin History of the Church: The Early Church
+#+date:       [2023-06-27 Tue 15:56]
+#+filetags:   :early-church:biblio:chadwick1993penguin:
+#+identifier: 20230627T155643
+
+#+begin_src bibtex
+@book{chadwick1993penguin,
+  title={The Penguin History of the Church: The Early Church},
+  author={Chadwick, H.},
+  isbn={9780141955025},
+  series={Penguin history of the church},
+  url={https://books.google.ca/books?id=FXlSYtYwZ3UC},
+  year={1993},
+  publisher={Penguin Books Limited}
+}
+
+#+end_src

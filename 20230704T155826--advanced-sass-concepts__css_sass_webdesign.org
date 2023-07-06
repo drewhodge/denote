@@ -1,0 +1,17 @@
+#+title:      Advanced SASS concepts
+#+date:       [2023-07-04 Tue 15:58]
+#+filetags:   :css:sass:webdesign:
+#+identifier: 20230704T155826
+
+* Advanced SASS concepts
+
+  - Control directives
+  - Placeholders
+  - The SASS 7-1 pattern
+  - Creating build processes
+  - Setting up media queries in SASS
+  - Unit Testing and SASS True
+
+*** Related notes
+
+  [[denote:20230704T131139][SASS best practices]]
