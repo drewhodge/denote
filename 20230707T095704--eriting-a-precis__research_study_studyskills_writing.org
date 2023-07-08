@@ -1,0 +1,35 @@
+#+title:      Editing a precis
+#+date:       [2023-07-07 Fri 09:57]
+#+filetags:   :research:study:studyskills:writing:
+#+identifier: 20230707T095704
+
+* Writing a précis
+
+A good précis has to be short and straight to the point.
+
+The foolowing points are the  key characteristics of this type of writing:
+
+  - A précis is a short summary, yet not a paraphrased copy of the original
+    piece.
+  - The text should be concise, precise, and clear.
+  - A précis should be written in your own words, but it can use some quotes
+    from the original piece (though not too many, only those that bring real
+    value).
+  - It should not reflect personal opinion.
+  - It should convey only the most important information and omit secondary
+    ideas.
+  - The key points should be covered as comprehensively as possible.
+  - The information in a précis should be conveyed in a logical sequence, with
+    clear connections between all parts of the text.
+  - It should not contain any details from other sources.
+  - A précis should not include any irrelevant or secondary details.
+  - A précis is always written in the third person, so the use of first person
+    pronouns is not appropriate.
+
+There is another form of précis called a rhetorical précis. The essence of the
+two types of précis are similar, but a rhetorical précis is usually much
+shorter. A rhetorical précis requires one to summarize core ideas from the
+original piece, but it must blend this summary with a brief analysis of how the
+author has conveyed his/her ideas.
+
+A rehetorical précis should be only four or five sentences.
