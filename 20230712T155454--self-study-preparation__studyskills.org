@@ -1,0 +1,29 @@
+#+title:      Self-study preparation
+#+date:       [2023-07-12 Wed 15:54]
+#+filetags:   :studyskills:
+#+identifier: 20230712T155454
+
+* Self-study prepararation and implementation
+
+** Preparation
+
+1. Find a comprehensive text (book or similar resource)
+2. Set up a framework--syllabus/curriculum
+   - Make a table of contents
+   - Write the syllabus
+   - Divide larger topics into smaller lessons
+   - Each section becomes one lesson
+3. Schedule
+   - Determine whether there is a time limit or a deadline
+   - Create a schedule (one lesson per day/three lessons per week)
+   - Integrate the lessons into the schedule
+4. Execute
+   - Follow the schedule
+
+** Implementation
+
+   - Learn what works for you.
+   - Don’t wait to review.
+   - Keep your study sessions short, but . . .
+   - Maintain a consistent study space.
+   - Use self-testing techniques.

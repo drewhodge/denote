@@ -1,0 +1,50 @@
+#+title:      Studying better
+#+date:       [2023-07-17 Mon 16:30]
+#+filetags:   :reading:research:study:studyskills:writing:
+#+identifier: 20230717T163022
+
+* Improving reading, writing, thinking, and learning
+
+Thnking needs writing. Good writing requires good thinking. Good writing, like
+good thinking and good reading, requires time. *Schedule time to write.*
+
+** Reading
+
+*** Types of reading
+
+  1. Elementary reading
+     Reading to entertain.
+  2. Inspectional reading
+     Reading to inform.
+     Superficial reading, skimming, getting the 'gist' of the text.
+  3. Analytical reading
+     Reading to undestand.
+     The real workhouse of reading.
+  4. Synoptical reading
+     Reading various texts on the same topic; finding and
+     evaluating contradictions; forming an opinion.
+
+The mediaeval /trivium/ divided learning into three stages: grammar, logic, and
+rhetoric.
+
+  - *Grammar*: the first stage of learning, the building blocks, or foundation of
+    an academinc subject or topic. Reading types 1 and 2 belong to this stage of
+    learning.
+  - *Logic*: the second stage of learning involves critial thinking. This is the
+    dialectic stage, which exercises alaytical skills, and makes connections
+    between cause and effect, historical events, scientific phenomena, and words
+    and their meanings. Reading type 3 belongs to this stage.
+  - *Rhetoric*: the third stage of learning. In this stage, learners evaluate what
+    they have read and learnt and express their own opinions. Reading type 4
+    belongs to this stage.
+
+This pattern applies to all study, research, and learning of any kind:
+
+  - Learn facts
+  - Analyze the facts
+  - Express your own opinions about the facts
+
+
+--------------------------------------------------------------------------------
+[[denote:20230717T162646][Dominican reading plan]]
+[[denote:20230717T170241][Reading types]]

@@ -1,0 +1,131 @@
+#+title:      Reading types
+#+date:       [2023-07-17 Mon 17:02]
+#+filetags:   :reading:studyskills:
+#+identifier: 20230717T170241
+
+* Reading types
+
+From [[https://fs.blog/how-to-read-a-book/][How to Read a Book]]
+
+**  Elementary Reading
+
+This is the level of reading taught in our elementary schools. If you’re reading
+this website, you already know how to do this.
+
+
+** Inspectional Reading
+
+We’ve been taught that skimming and superficial reading are bad for
+understanding. That is not necessarily the case. Using these tools effectively
+can increase understanding. Inspectional reading allows us to look at the
+author’s blueprint and evaluate the merits of a deeper reading experience.
+
+There are two sub-types of inspectional reading.
+
+*Systematic skimming*--This is meant to be a quick check of the book by
+
+  1. Reading the preface
+  2. Studying the table of contents
+  3. Checking the index
+  4. Reading the inside jacket
+
+ This should give you sufficient knowledge to understand the chapters in the
+ book, pivotal to the author’s argument. Dip in here and there, but never with
+ more than a paragraph or two. Skimming helps you reach to a decision point:
+ Does this book deserve more of my time and attention? If not, you put it down.
+
+*Superficial reading*--This is when you just read. Don’t ponder the argument,
+don’t look things up, don’t write in the margins. If you don’t understand
+something, move on. What you gain from this quick read will help you later when
+you go back and put more effort into reading. You now come to another decision
+point. Now that you have a better understanding of the book’s contents and its
+structure, do you want to understand it?  Inspectional reading gives you the
+gist of things.
+
+Sometimes that’s all we want or need. But sometimes we want more. Sometimes we
+want to understand.
+
+** Analytical Reading
+
+Francis Bacon once remarked, “some books are to be tasted, others to be
+swallowed, and some few to be chewed and digested.”
+
+You can think of analytical reading as doing that chewing and digesting. This is
+doing the work.
+
+Analytical reading is a thorough reading.
+
+If inspectional reading is the best you can do quickly, this is the best reading
+you can do given time.
+
+At this point, you start to engage your mind and dig into the work required to
+understand what’s being said. I highly recommend you use marginalia to converse
+with the author.
+
+There are four rules to Analytical Reading:
+
+  1. Classify the book according to kind and subject matter.
+  2. State what the whole book is about with the utmost brevity.
+  3. Enumerate its major parts in their order and relation, and outline these
+     parts as you have outlined the whole.
+  4. Define the problem or problems the author is trying to solve.
+
+  You’ll probably notice that while those sound pretty easy, they involve a lot
+  of work. Luckily the inspectional reading you’ve already done has primed you
+  for this.
+
+After an inspectional read, you will understand the book and the author’s views.
+
+But that doesn’t mean you’ll understand the broader subject. To do that, you
+need to use comparative reading to synthesize knowledge from several books on
+the same subject.
+
+** Syntopical Reading
+
+This is also known as comparative reading, and it represents the most demanding
+and difficult reading of all. Syntopical Reading involves reading many books on
+the same subject and comparing and contrasting ideas, vocabulary, and arguments.
+
+This task is undertaken by identifying relevant passages, translating the
+terminology, framing and ordering the questions that need answering, defining
+the issues, and having a conversation with the responses.
+
+The goal is not to achieve an overall understanding of any particular book, but
+rather to understand the subject and develop a deep fluency.
+
+This is all about identifying and filling in your knowledge gaps.
+
+There are five steps to syntopical reading:
+
+  1. Finding the Relevant Passages — You need to find the right books and then
+     the passages that are most relevant to filling your needs. So the first
+     step is an inspectional reading of all the works that you have identified
+     as relevant.
+  2. Bringing the Author to Terms — In analytical reading, you must identify the
+     keywords and how they are used by the author. This is fairly
+     straightforward. The process becomes more complicated now as each author
+     has probably used different terms and concepts to frame their argument. Now
+     the onus is on you to establish the terms. Rather than using the author’s
+     language, you must use your own. In short, this is an exercise in
+     translation and synthesis.
+  3. Getting the Questions Clear — Rather than focus on the problems the author
+     is trying to solve, you need to focus on the questions that you want
+     answered. Just as we must establish our own terminology, so too must we
+     establish our own propositions by shedding light on our problems to which
+     the authors provide answers. It’s important to frame the questions in such
+     a way that all or most of the authors can be interpreted as providing
+     answers. Sometimes we might not get an answer to our questions because they
+     might not have been seen as questions by the authors.
+  4. Defining the Issues — If you’ve asked a clear question to which there are
+     multiple answers then an issue has been defined. Opposing answers, now
+     translated into your terms, must be ordered in relation to one
+     another. Understanding multiple perspectives within an issue helps you form
+     an intelligent opinion.
+  5. Analyzing the Discussion — It’s presumptuous to expect we’ll find a single
+     unchallenged truth to any of our questions. Our answer is the conflict of
+     opposing answers. The value is the discussion you have with these
+     authors. You can now have an informed opinion.
+
+--------------------------------------------------------------------------------
+[[denote:20230717T163022][Studying better]]
+[[denote:20230717T162646][Dominican reading plan]]
