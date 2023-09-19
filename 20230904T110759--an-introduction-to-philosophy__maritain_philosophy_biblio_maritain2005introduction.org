@@ -1,0 +1,13 @@
+#+title:      An introduction to philosophy
+#+date:       [2023-09-04 Mon 11:07]
+#+filetags:   :maritain:philosophy:biblio:maritain2005introduction:
+#+identifier: 20230904T110759
+
+#+begin_src bibtex
+@book{maritain2005introduction,
+  title={An introduction to philosophy},
+  author={Maritain, Jacques},
+  year={2005},
+  publisher={Rowman \& Littlefield}
+}
+#+end_src

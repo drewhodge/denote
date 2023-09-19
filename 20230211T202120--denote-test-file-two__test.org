@@ -1,6 +1,0 @@
-#+title:      Denote test file two
-#+date:       [2023-02-11 Sat 20:21]
-#+filetags:   :test:
-#+identifier: 20230211T202120
-
-Test file two.

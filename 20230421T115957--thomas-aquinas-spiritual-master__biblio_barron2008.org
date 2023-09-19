@@ -1,10 +1,9 @@
 #+title:      Thomas Aquinas: Spiritual Master
 #+date:       [2023-04-21 Fri 11:59]
-#+filetags:   :biblio:barron2008thomas:
+#+filetags:   :biblio:barron2008:
 #+identifier: 20230421T115957
-
 #+begin_src bibtex
-@book{barron2008thomas,
+@book{barron2008,
   title={Thomas Aquinas: Spiritual Master},
   author={Barron, Robert},
   year={2008},
