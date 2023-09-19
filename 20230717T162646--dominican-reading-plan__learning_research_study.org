@@ -1,0 +1,66 @@
+#+title:      Dominican reading plan
+#+date:       [2023-07-17 Mon 16:26]
+#+filetags:   :learning:research:study:
+#+identifier: 20230717T162646
+
+* Dominican reading plans
+
+From: [[https://www.friarly.com/study.html][Studying as a friar]].
+
+A Dominican is always seeking to understand and to grow in knowledge and love of
+God. As St. Josemaria Escriva says: “An hour of study, for a modern apostle, is
+an hour of prayer.”
+
+What is a Reading Plan?
+
+It is reading with a direction in mind. You do not just read a book and then
+another book, in other words, but you read a group of related books, for an
+intended end/goal, over a designated period of time.
+
+Three books worth your time for considering how to read like a friar:
+
+  - Josef Pieper’s /Leisure, the Basis of Culture/
+  - Antonin Sertillanges’ /The Intellectual Life/
+  - Mortimer Adler’s /How to Read a Book/
+
+** Topical study plan
+
+*** Thomistic philosophy
+
+[[https://www.friarly.com/philosophical-thomistic.html][Thomistic philosophy]]
+
+*** Church history
+
+[[https://www.friarly.com/church-history.html][Church history]]
+
+*** Faith and sience
+
+[[https://www.friarly.com/faith--science.html][Faith and science]]
+
+*** Spirituality
+
+[[https://www.friarly.com/spirituality.html][Spirituality]]
+
+*** Rhetoric
+
+[[https://www.friarly.com/rhetorical.html][Rhetoric]]
+
+*** Scriptural studies
+
+[[https://www.friarly.com/scriptural.html][Scripture studies]]
+
+*** Theology
+
+[[https://www.friarly.com/theological.html][Theology]]
+
+*** History and politics
+
+[[https://www.friarly.com/american.html][History and politics]]
+
+*** Literature
+
+[[https://www.friarly.com/literary.html][Literature]]
+
+--------------------------------------------------------------------------------
+[[denote:20230717T163022][Studying better]]
+[[denote:20230717T170241][Reading types]]
