@@ -1,0 +1,118 @@
+#+title:      Learning
+#+date:       [2023-09-20 Wed 15:36]
+#+filetags:   :studyskills:
+#+identifier: 20230920T153643
+
+* Learning
+
+** What is learning?
+
+Three aspects of learning though study:
+
+  - *Taking in new ideas*--by making the effort to understand what we read and
+    hear.
+  - *Working on new ideas*--by fitting them together with what we already know.
+  - *Expressing new ideas*--by using them in our won work.
+
+Studying involves having a dialogue with a subject or topic. Our minds adapt to
+the way ideas are used within the subject--and this adaptation is learning. So
+learning includes the following activities:
+
+  - Making an effort to understand as we read and listen.
+  - Making notes /selectively/ and /creatively/.
+  - Thinking about what we are learning and organizing it in our minds or on paper.
+  - Listening closely to lectures and discussions and participating in them.
+  - Regularly reworking our notes.
+  - Using writing as a learning experience.
+
+** Engaging with academic discourse
+
+To acquire academic knowledge, one has to engage with academic discourse. The
+following sections discuss how academic discourse works.
+
+*** Academic values
+
+Members of an academic community or discipline are held together by the goals
+and values they share. This include commitment to the following:
+
+  - A perpetual search for understanding within their a=subject area.
+  - Hog-quality research.
+  - Logical argument.
+  - Fairness and impartiality.
+  - Free exchange of information and ideas so as to promote the advancement of
+    knowledge within their community.
+
+What is said in academic discourse often takes place against well understood
+background knowledge, so it is important to get to know well the discipline we
+are studying, and to be aware of what is taken for granted.
+
+** Key features of academic discourse
+
+The following key features make academic discourse, the toolkit of the academic
+trade, and shape the way it is conducted.
+
+*** 1. Debate
+
+Debate lies at the heart of academic discourse. Academic articles are usually
+written as arguments against another position and learning about major debates
+in the history of our discipline is an important part of becoming competent in
+the subject. Article and papers are written with the point of view that readers
+will be debating with the author.
+
+*** 2. Scholarship
+
+Academics maintain standards of scholarship by keeping abreast of debates withing
+their discipline. Academic arguments build on what has already been written, so
+writers must supply details of their sources and they must make reference to
+other contributors to the debate. The free exchange of knowledge within a
+discipline rests on the assumption that writers give due credit when they use
+other people's ideas, arguments, and research.
+
+*** 3. Argument
+
+In academic discourse, what we say or write should unfold as logical
+argument. An argument starts with a clearly established issue for debate, then
+presents a sequence of points, each logically connected with what as gone
+before. The sequence is arranged so as to lead to a conclusion.
+
+*** 4. Criticism
+
+As well as presenting your own arguments in academic s=discourse, you criticize
+other people's. In this context, criticism means discussing the weak and strong
+aspects of an argument. Knowledge advances through this process--examining
+carefully arguments and claims and judging their strengths and
+weaknesses. Through creative and constructive criticism, we try to clarify the
+objects we are studying, that interest us, and eventually come to understand
+them better.
+
+*** 5. Analysis
+
+Analysis is taking things apart to see how they are made and how they work
+together. Analysis and criticism go together--/critical analysis/. The
+critical-analytical approach is perhaps the most distinctive characteristic of
+academic discourse.
+
+*** 6. Evidence
+
+Evidence should back up or support any argument. This can be evidence from
+personal research or evidence quoted from other sources.
+
+*** 7. Objectivity
+
+Arguments must be presented objectively, or from a neutral, unbiased, point of
+view. They are judged only on the quality of their logic, scholarship, and
+evidence, not on who made or makes them. Views and impressions must be supported
+by objective evidence, not simply asserted and leave analysis and criticism to
+readers.
+
+*** 8. Precision
+
+Academic discourse must strive to be precise. Avoid sweeping generalizations
+and overstating the case; leave out whatever does not make a direct contribution
+to the argument. Academic discourse is a task-oriented endeavour, and the task
+is to seek greater knowledge and understanding--everything else is irrelevant.
+
+--------------------------------------------------------------------------------
+**** Links
+
+[[denote:20230712T155454][Self-study preparation]]

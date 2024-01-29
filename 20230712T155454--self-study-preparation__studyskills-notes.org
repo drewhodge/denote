@@ -1,0 +1,82 @@
+
+* Self-study preparation
+:PROPERTIES:
+:org-remark-file: 20230712T155454--self-study-preparation__studyskills.org
+:END:
+
+** lesson
+:PROPERTIES:
+:CATEGORY: takenote
+:END:
+Testing org-remark margin notes/annotations
+
+** schedule
+:PROPERTIES:
+:CATEGORY: important
+:END:
+This is a yellow annotation.
+
+** curriculum
+:PROPERTIES:
+:CATEGORY: important
+:END:
+
+** contents
+:PROPERTIES:
+:CATEGORY: review
+:END:
+
+** syllabus
+:PROPERTIES:
+:CATEGORY: connection
+:END:
+
+** lessons
+:PROPERTIES:
+:CATEGORY: argument-proof
+:END:
+
+** lesson
+:PROPERTIES:
+:CATEGORY: idea
+:END:
+
+** Schedule
+:PROPERTIES:
+:CATEGORY: takenote
+:END:
+
+** resource
+:PROPERTIES:
+:CATEGORY: idea
+:END:
+
+** curriculum
+:PROPERTIES:
+:CATEGORY: takenote
+:END:
+
+** lessons
+:PROPERTIES:
+:CATEGORY: important
+:END:
+
+** Learn
+:PROPERTIES:
+:CATEGORY: review
+:END:
+
+** Learn
+:PROPERTIES:
+:CATEGORY: review
+:END:
+
+** deadline
+:PROPERTIES:
+:CATEGORY: review
+:END:
+
+** schedule
+:PROPERTIES:
+:CATEGORY: important
+:END:

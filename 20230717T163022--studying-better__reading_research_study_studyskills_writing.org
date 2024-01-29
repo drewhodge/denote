@@ -46,5 +46,7 @@ This pattern applies to all study, research, and learning of any kind:
 
 
 --------------------------------------------------------------------------------
+**** Links
+
 [[denote:20230717T162646][Dominican reading plan]]
 [[denote:20230717T170241][Reading types]]

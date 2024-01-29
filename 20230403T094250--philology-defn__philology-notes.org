@@ -1,0 +1,37 @@
+
+* philology-defn
+:PROPERTIES:
+:org-remark-file: 20230403T094250--philology-defn__philology.org
+:END:
+
+** philology
+:PROPERTIES:
+:CATEGORY: review
+:END:
+
+** philology
+:PROPERTIES:
+:CATEGORY: important
+:END:
+
+** derives
+:PROPERTIES:
+:CATEGORY: connection
+:END:
+
+** historical
+:PROPERTIES:
+:CATEGORY: argument-proof
+:END:
+
+** Accordingly
+:PROPERTIES:
+:CATEGORY: idea
+:END:
+
+** understand
+:PROPERTIES:
+:CATEGORY: takenote
+:END:
+
+te about 'understand'.

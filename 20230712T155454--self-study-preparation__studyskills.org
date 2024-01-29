@@ -27,3 +27,8 @@
    - Keep your study sessions short, but . . .
    - Maintain a consistent study space.
    - Use self-testing techniques.
+
+--------------------------------------------------------------------------------
+**** Links
+
+[[denote:20230920T153643][Learning]]
