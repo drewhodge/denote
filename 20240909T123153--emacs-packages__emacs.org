@@ -1,0 +1,138 @@
+#+title:      emacs-packages
+#+date:       [2024-09-09 Mon 12:31]
+#+filetags:   :emacs:
+#+identifier: 20240909T123153
+
+* Emacs packages in ~init.el~
+
+** package.el
+
+** ues-package
+
+** ef-themes (Prot)
+
+** Modus themes (Prot)
+
+** treemacs all-the-icons
+
+** emacs itself
+
+** doom modeline
+
+** spacious-padding (Prot)
+
+** meow (modal editing)
+
+** aspell
+
+** general
+
+** which-key
+
+** perspective
+
+** ws-buffer
+
+** rainbow-mode
+
+** paren
+
+** rainbow-delimiters
+
+** hydra
+
+** savehist
+
+** pulsar (Prot)
+
+** logos (Prot)
+
+** corfu
+
+** dabbrev
+
+** vertico
+
+** orderless
+
+** marginalia
+
+** consult
+
+** dired
+
+** all-the-icons-dired
+
+** org-mode
+
+** org auto-tangle
+
+** ivy-bibtex
+
+** citar
+
+** org-ref
+
+** org-side-tree
+
+** markdown-mode
+
+** pdf-tools
+
+** TeX, LaTeX, AucTeX
+
+** org-static-blog
+
+** simple-httpd
+
+** org-remark
+
+** deft
+
+** denote
+
+** denote-menu
+
+** citar-denote
+
+** vterm
+
+** sly
+
+** slime
+
+** cider
+
+** rust-mode
+
+** web-mode
+
+** impatient-mode
+
+** skewer-mode
+
+** yaml-mode
+
+** compile
+
+** magit
+
+** git-link
+
+** git-gutter
+
+** sage-shell-mode
+
+** ob-sagemath
+
+** eww
+
+** pretty-hydra
+
+** Utility functions
+
+*** google
+
+*** unfill-paragraph
+
+** unfill-region

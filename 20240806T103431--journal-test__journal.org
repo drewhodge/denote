@@ -1,0 +1,7 @@
+#+title:      Journal test
+#+date:       [2024-08-06 Tue 10:34]
+#+filetags:   :journal:
+#+identifier: 20240806T103431
+
+
+Another journal test.

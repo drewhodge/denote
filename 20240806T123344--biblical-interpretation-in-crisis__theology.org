@@ -1,0 +1,22 @@
+#+title:      Biblical interpretation in crisis
+#+date:       [2024-08-06 Tue 12:33]
+#+filetags:   :theology:
+#+identifier: 20240806T123344
+
+* Biblical interpretation in crisis
+
+This is a lecture given by Josef Cardinal Ratzinger in 1988 -- the 1988 Erasmus
+Lecture.
+
+See [[https://www.firstthings.com/web-exclusives/2008/04/biblical-interpretation-in-crisis][First Things: Ratzinger]].
+
+@inproceedings{ratzinger1989biblical,
+  title={Biblical Interpretation in Crisis: On the Question of the Foundations and Approaches of Exegesis Today},
+  author={Ratzinger, Joseph},
+  booktitle={Biblical Interpretation in Crisis: The Ratzinger Conference on Bible and Church},
+  volume={16},
+  year={1989},
+  organization={Grand Rapids, MI: Eerdmans}
+}
+
+[[denote:20230211T201816][Denote journal test]]
