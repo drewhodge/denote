@@ -1,6 +1,6 @@
 #+title:      Editing a precis
 #+date:       [2023-07-07 Fri 09:57]
-#+filetags:   :research:study:studyskills:writing:
+#+filetags:   :studyskills:writing:
 #+identifier: 20230707T095704
 
 * Writing a précis
@@ -33,3 +33,12 @@ original piece, but it must blend this summary with a brief analysis of how the
 author has conveyed his/her ideas.
 
 A rehetorical précis should be only four or five sentences.
+
+--------------------------------------------------------------------------------
+**** Links
+
+- [[denote:20230710T165114][Literature note example]]
+- [[denote:20230712T155454][Self-study preparation]]
+- [[denote:20230717T163022][Studying better]]
+- [[denote:20230717T170241][Reading types]]
+- [[denote:20230920T153643][Learning]]

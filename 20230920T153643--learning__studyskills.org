@@ -115,4 +115,9 @@ is to seek greater knowledge and understanding--everything else is irrelevant.
 --------------------------------------------------------------------------------
 **** Links
 
-[[denote:20230712T155454][Self-study preparation]]
+- [[denote:20230712T155454][Self-study preparation]]
+- [[denote:20230707T095704][Editing a precis]]
+- [[denote:20230710T165114][Literature note example]]
+- [[denote:20230712T155454][Self-study preparation]]
+- [[denote:20230717T163022][Studying better]]
+- [[denote:20230717T170241][Reading types]]

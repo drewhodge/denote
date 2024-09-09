@@ -31,4 +31,8 @@
 --------------------------------------------------------------------------------
 **** Links
 
-[[denote:20230920T153643][Learning]]
+- [[denote:20230707T095704][Editing a precis]]
+- [[denote:20230710T165114][Literature note example]]
+- [[denote:20230717T163022][Studying better]]
+- [[denote:20230717T170241][Reading types]]
+- [[denote:20230920T153643][Learning]]

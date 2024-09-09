@@ -1,6 +1,6 @@
 #+title:      Aquinas on creation
 #+date:       [2023-04-21 Fri 12:10]
-#+filetags:   :aquinas:quotation:
+#+filetags:   :theology:aquinas:
 #+identifier: 20230421T121021
 
 * Aquinas' interpreation of creation

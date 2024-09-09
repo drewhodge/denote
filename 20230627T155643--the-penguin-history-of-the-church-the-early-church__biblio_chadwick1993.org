@@ -1,6 +1,6 @@
 #+title:      The Penguin History of the Church: The Early Church
 #+date:       [2023-06-27 Tue 15:56]
-#+filetags:   :early-church:biblio:chadwick1993penguin:
+#+filetags:   :biblio:chadwick1993:
 #+identifier: 20230627T155643
 
 #+begin_src bibtex

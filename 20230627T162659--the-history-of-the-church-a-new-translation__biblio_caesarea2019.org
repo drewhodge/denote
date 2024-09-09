@@ -1,6 +1,6 @@
 #+title:      The History of the Church: A New Translation
 #+date:       [2023-06-27 Tue 16:26]
-#+filetags:   :eusebiustest:biblio:caesarea2019history:
+#+filetags:   :biblio:caesarea2019:
 #+identifier: 20230627T162659
 
 #+begin_src bibtex

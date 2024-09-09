@@ -4,3 +4,5 @@
 #+identifier: 20230211T201816
 
 This is a test entry for a Denote journal.
+
+[[denote:20240806T123344][Biblical interpretation in crisis]]

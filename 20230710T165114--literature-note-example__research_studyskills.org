@@ -1,6 +1,6 @@
 #+title:      Literature note example
 #+date:       [2023-07-10 Mon 16:51]
-#+filetags:   :research:study:studyskills:writing:
+#+filetags:   :research:studyskills:
 #+identifier: 20230710T165114
 
 * Example of a literature note
@@ -11,3 +11,12 @@ denote file.
 #+CAPTION: Literature note example
 #+NAME:   fig:1
 [[./images/literature-note-example.png]]
+
+--------------------------------------------------------------------------------
+**** Links
+
+- [[denote:20230707T095704][Editing a precis]]
+- [[denote:20230712T155454][Self-study preparation]]
+- [[denote:20230717T163022][Studying better]]
+- [[denote:20230717T170241][Reading types]]
+- [[denote:20230920T153643][Learning]]

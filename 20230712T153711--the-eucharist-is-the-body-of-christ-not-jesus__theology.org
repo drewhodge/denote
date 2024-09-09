@@ -1,6 +1,6 @@
 #+title:      The Eucharist is the body of Christ not Jesus
 #+date:       [2023-07-12 Wed 15:37]
-#+filetags:   :catholicism:christianity:theology:
+#+filetags:   :theology:
 #+identifier: 20230712T153711
 
 # The Eucharist is the body of Christ, not the body of Jesus

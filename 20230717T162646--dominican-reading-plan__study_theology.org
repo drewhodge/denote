@@ -1,6 +1,6 @@
 #+title:      Dominican reading plan
 #+date:       [2023-07-17 Mon 16:26]
-#+filetags:   :learning:research:study:
+#+filetags:   :study:theology:
 #+identifier: 20230717T162646
 
 * Dominican reading plans
@@ -57,10 +57,18 @@ Three books worth your time for considering how to read like a friar:
 
 [[https://www.friarly.com/american.html][History and politics]]
 
-*** Literature
+*** Literatiure
 
 [[https://www.friarly.com/literary.html][Literature]]
 
 --------------------------------------------------------------------------------
-[[denote:20230717T163022][Studying better]]
-[[denote:20230717T170241][Reading types]]
+**** Links
+
+- [[denote:20230717T163022][Studying better]]
+- [[denote:20230717T170241][Reading types]]
+- [[denote:20230707T095704][Editing a precis]]
+- [[denote:20230710T165114][Literature note example]]
+- [[denote:20230712T155454][Self-study preparation]]
+- [[denote:20230717T163022][Studying better]]
+- [[denote:20230717T170241][Reading types]]
+- [[denote:20230920T153643][Learning]]

@@ -1,6 +1,6 @@
 #+title:      Advanced SASS concepts
 #+date:       [2023-07-04 Tue 15:58]
-#+filetags:   :css:sass:webdesign:
+#+filetags:   :style:webdesign:
 #+identifier: 20230704T155826
 
 * Advanced SASS concepts
